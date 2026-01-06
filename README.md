@@ -1,8 +1,7 @@
 # 📚 Library Book Management System (Frontend)
 
-This project was **created and structured by me directly on GitHub** using the GitHub web interface.
-
-All folders and files (React + Vite setup) were **manually created by me without using local tools or templates**, as part of my learning and project work.
+This project was created and structured by me directly on GitHub using the GitHub web interface.  
+All folders and files (React + Vite setup) were manually created by me without using local tools or templates, as part of my learning and project work.
 
 ## 🛠 Tech Stack
 - React
@@ -18,7 +17,7 @@ All folders and files (React + Vite setup) were **manually created by me without
 
 ## 🧑‍💻 Author
 **Archana R**  
-B.Tech Artificial Intelligence & Data Science
-archanaramesh1223@gmail.com
+B.Tech Artificial Intelligence & Data Science  
+📧 archanaramesh1223@gmail.com
 
-ThankYou
+Thank you.
